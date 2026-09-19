@@ -4,7 +4,7 @@ Java Backend Developer. I build backend systems with Java and Spring Boot.
 
 ### Projects
 
-* [telegram-bot](https://github.com/solmosov/telegram-bot) — Java framework for building Telegram bots.
+* [telegram-bot](https://github.com/solmosov/telegram-bot) — Telegram bot framework (open-source) for building Telegram bots with Java and Spring Boot.
 * [spring-delivery-app-monolith](https://github.com/solmosov/spring-delivery-app-monolith) — delivery platform built with Spring Boot.
 
 ### Stack
