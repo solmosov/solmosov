@@ -1,16 +1,14 @@
-## Hi there 👋
+# Shahboz Olmosov
 
-<!--
-**solmosov/solmosov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer. I build backend systems with Java and Spring Boot.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [telegram-bot](https://github.com/solmosov/telegram-bot) — Java framework for building Telegram bots.
+* [spring-delivery-app-monolith](https://github.com/solmosov/spring-delivery-app-monolith) — delivery platform built with Spring Boot.
+
+### Stack
+
+Java · Spring Boot · PostgreSQL · Redis · RabbitMQ · Kafka · Docker
+
+[Website](https://shahbozolmosov.uz) · [LinkedIn](https://www.linkedin.com/in/solmosov) · [Telegram](https://t.me/shahbozolmosov) · [Email](mailto:contact@shahbozolmosov.uz)
